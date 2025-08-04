@@ -1,5 +1,5 @@
 <template>
-  <Header title="骤雨重山图床" desc="拒绝流量劫持，全面使用HTTPS" />
+  <Header title="Noah公益图床—CF版" desc="拒绝流量劫持，全面使用HTTPS" />
   <main><RouterView /></main>
   <Footer />
   <Toaster />
